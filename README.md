@@ -5,6 +5,7 @@
 Star ⭐ us if you like it!
 
 ## News
+- 26/Feb/2025. Leffa is accepted to CVPR 2025.
 - 09/Jan/2025. Inference defaults to float16, generating an image in 6 seconds (on A100).
 - 02/Jan/2025. Update the mask generator to improve results. Add ref unet acceleration, boosting prediction speed by 30%. Include more controls in Advanced Options to enhance user experience. Enable intermediate result output for easier development. Enjoy using it!
 - 18/Dec/2024. Thanks to @[StartHua](https://github.com/StartHua) for integrating Leffa into ComfyUI! Here is the [repo](https://github.com/StartHua/Comfyui_leffa)!
